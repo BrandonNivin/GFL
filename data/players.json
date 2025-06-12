@@ -1,0 +1,722 @@
+[
+  {
+    "name":"Rory McIlroy",
+    "rank":1.0,
+    "score":0
+  },
+  {
+    "name":"J.J. Spaun",
+    "rank":2.0,
+    "score":0
+  },
+  {
+    "name":"Tom Hoge",
+    "rank":3.0,
+    "score":0
+  },
+  {
+    "name":"Akshay Bhatia",
+    "rank":3.0,
+    "score":0
+  },
+  {
+    "name":"Lucas Glover",
+    "rank":3.0,
+    "score":0
+  },
+  {
+    "name":"Danny Walker",
+    "rank":6.0,
+    "score":0
+  },
+  {
+    "name":"Corey Conners",
+    "rank":6.0,
+    "score":0
+  },
+  {
+    "name":"Bud Cauley",
+    "rank":6.0,
+    "score":0
+  },
+  {
+    "name":"Robert MacIntyre",
+    "rank":9.0,
+    "score":0
+  },
+  {
+    "name":"Collin Morikawa",
+    "rank":10.0,
+    "score":0
+  },
+  {
+    "name":"Davis Thompson",
+    "rank":10.0,
+    "score":0
+  },
+  {
+    "name":"Jake Knapp",
+    "rank":12.0,
+    "score":0
+  },
+  {
+    "name":"Patrick Cantlay",
+    "rank":12.0,
+    "score":0
+  },
+  {
+    "name":"Aaron Rai",
+    "rank":14.0,
+    "score":0
+  },
+  {
+    "name":"Tommy Fleetwood",
+    "rank":14.0,
+    "score":0
+  },
+  {
+    "name":"Denny McCarthy",
+    "rank":14.0,
+    "score":0
+  },
+  {
+    "name":"Sam Ryder",
+    "rank":14.0,
+    "score":0
+  },
+  {
+    "name":"Sepp Straka",
+    "rank":14.0,
+    "score":0
+  },
+  {
+    "name":"Alex Smalley",
+    "rank":14.0,
+    "score":0
+  },
+  {
+    "name":"Keegan Bradley",
+    "rank":20.0,
+    "score":0
+  },
+  {
+    "name":"Ryan Fox",
+    "rank":20.0,
+    "score":0
+  },
+  {
+    "name":"Joe Highsmith",
+    "rank":20.0,
+    "score":0
+  },
+  {
+    "name":"Matt McCarty",
+    "rank":20.0,
+    "score":0
+  },
+  {
+    "name":"Daniel Berger",
+    "rank":20.0,
+    "score":0
+  },
+  {
+    "name":"Shane Lowry",
+    "rank":20.0,
+    "score":0
+  },
+  {
+    "name":"Scottie Scheffler",
+    "rank":20.0,
+    "score":0
+  },
+  {
+    "name":"Min Woo Lee",
+    "rank":20.0,
+    "score":0
+  },
+  {
+    "name":"Max McGreevy",
+    "rank":20.0,
+    "score":0
+  },
+  {
+    "name":"Stephan Jaeger",
+    "rank":20.0,
+    "score":0
+  },
+  {
+    "name":"Harris English",
+    "rank":30.0,
+    "score":0
+  },
+  {
+    "name":"Will Zalatoris",
+    "rank":30.0,
+    "score":0
+  },
+  {
+    "name":"Russell Henley",
+    "rank":30.0,
+    "score":0
+  },
+  {
+    "name":"Justin Thomas",
+    "rank":33.0,
+    "score":0
+  },
+  {
+    "name":"Taylor Moore",
+    "rank":33.0,
+    "score":0
+  },
+  {
+    "name":"J.T. Poston",
+    "rank":33.0,
+    "score":0
+  },
+  {
+    "name":"Rico Hoey",
+    "rank":33.0,
+    "score":0
+  },
+  {
+    "name":"Kurt Kitayama",
+    "rank":33.0,
+    "score":0
+  },
+  {
+    "name":"Davis Riley",
+    "rank":38.0,
+    "score":0
+  },
+  {
+    "name":"Justin Lower",
+    "rank":38.0,
+    "score":0
+  },
+  {
+    "name":"Taylor Pendrith",
+    "rank":38.0,
+    "score":0
+  },
+  {
+    "name":"Si Woo Kim",
+    "rank":38.0,
+    "score":0
+  },
+  {
+    "name":"Jesper Svensson",
+    "rank":42.0,
+    "score":0
+  },
+  {
+    "name":"Mac Meissner",
+    "rank":42.0,
+    "score":0
+  },
+  {
+    "name":"Matt Kuchar",
+    "rank":42.0,
+    "score":0
+  },
+  {
+    "name":"Billy Horschel",
+    "rank":42.0,
+    "score":0
+  },
+  {
+    "name":"Tom Kim",
+    "rank":42.0,
+    "score":0
+  },
+  {
+    "name":"Hayden Springer",
+    "rank":42.0,
+    "score":0
+  },
+  {
+    "name":"Chris Kirk",
+    "rank":42.0,
+    "score":0
+  },
+  {
+    "name":"Ryan Gerard",
+    "rank":42.0,
+    "score":0
+  },
+  {
+    "name":"Jacob Bridgeman",
+    "rank":50.0,
+    "score":0
+  },
+  {
+    "name":"Beau Hossler",
+    "rank":50.0,
+    "score":0
+  },
+  {
+    "name":"Sahith Theegala",
+    "rank":52.0,
+    "score":0
+  },
+  {
+    "name":"Byeong Hun An",
+    "rank":52.0,
+    "score":0
+  },
+  {
+    "name":"Joel Dahmen",
+    "rank":54.0,
+    "score":0
+  },
+  {
+    "name":"Camilo Villegas",
+    "rank":54.0,
+    "score":0
+  },
+  {
+    "name":"Matthieu Pavon",
+    "rank":54.0,
+    "score":0
+  },
+  {
+    "name":"Carson Young",
+    "rank":54.0,
+    "score":0
+  },
+  {
+    "name":"Charley Hoffman",
+    "rank":54.0,
+    "score":0
+  },
+  {
+    "name":"Jordan Spieth",
+    "rank":59.0,
+    "score":0
+  },
+  {
+    "name":"Jhonattan Vegas",
+    "rank":60.0,
+    "score":0
+  },
+  {
+    "name":"Austin Eckroat",
+    "rank":61.0,
+    "score":0
+  },
+  {
+    "name":"Will Chandler",
+    "rank":61.0,
+    "score":0
+  },
+  {
+    "name":"Chandler Phillips",
+    "rank":61.0,
+    "score":0
+  },
+  {
+    "name":"Sungjae Im",
+    "rank":61.0,
+    "score":0
+  },
+  {
+    "name":"Trey Mullinax",
+    "rank":61.0,
+    "score":0
+  },
+  {
+    "name":"Cameron Young",
+    "rank":61.0,
+    "score":0
+  },
+  {
+    "name":"Emiliano Grillo",
+    "rank":67.0,
+    "score":0
+  },
+  {
+    "name":"Isaiah Salinda",
+    "rank":68.0,
+    "score":0
+  },
+  {
+    "name":"C.T. Pan",
+    "rank":69.0,
+    "score":0
+  },
+  {
+    "name":"Sami Valimaki",
+    "rank":69.0,
+    "score":0
+  },
+  {
+    "name":"Rickie Fowler",
+    "rank":71.0,
+    "score":0
+  },
+  {
+    "name":"Xander Schauffele",
+    "rank":72.0,
+    "score":0
+  },
+  {
+    "name":"Henrik Norlander",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Ricky Castillo",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Ben Kohles",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Justin Rose",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Peter Malnati",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Laurie Canter",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"David Lipsky",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Michael Kim",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Hideki Matsuyama",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Ben Griffin",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Adam Schenk",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Erik van Rooyen",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Sam Burns",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Harry Hall",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Patrick Fishburn",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Vince Whaley",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Keith Mitchell",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Brian Campbell",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Mackenzie Hughes",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"David Skinns",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Nate Lashley",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Alejandro Tosti",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Aldrich Potgieter",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Adam Scott",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Chris Gotterup",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Adam Hadwin",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Ryo Hisatsune",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Nicolai H\u00f8jgaard",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Chan Kim",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Sam Stevens",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Ludvig \u00c5berg",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Patton Kizzire",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Nick Taylor",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Matti Schmid",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Nico Echavarria",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Greyson Sigg",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Kevin Roy",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Jackson Suber",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Andrew Novak",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Chad Ramey",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Thomas Detry",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Seamus Power",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Christiaan Bezuidenhout",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Doug Ghim",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Eric Cole",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Andrew Putnam",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Brice Garnett",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Kevin Yu",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"K.H. Lee",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Patrick Rodgers",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Viktor Hovland",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Luke List",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Karl Vilips",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Kris Ventura",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Lanto Griffin",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Brian Harman",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Matt Fitzpatrick",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Max Homa",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Adam Svensson",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Will Gordon",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Max Greyserman",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Rasmus H\u00f8jgaard",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Mark Hubbard",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Ben Silverman",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Tony Finau",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Frankie Capan III",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Maverick McNealy",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Nick Dunlap",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Rafael Campos",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Gary Woodland",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Cam Davis",
+    "rank":null,
+    "score":0
+  },
+  {
+    "name":"Wyndham Clark",
+    "rank":null,
+    "score":0
+  }
+]
