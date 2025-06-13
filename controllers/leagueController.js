@@ -19,3 +19,35 @@ exports.createLeague = async (req, res) => {
     res.status(400).json({ error: err.message });
   }
 };
+
+// Delete a league
+exports.deleteLeague = async (req, res) => {
+  const { id } = req.body; // or use req.params.id if preferred
+  try {
+    const deletedLeague = await League.findByIdAndDelete(id);
+    if (!deletedLeague) {
+      return res.status(404).json({ message: 'League not found' });
+    }
+    res.json({ message: 'League deleted', deletedLeague });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+};
+
+// Update a league
+exports.updateLeague = async (req, res) => {
+  const { id, name, players } = req.body; // you can also update createdBy if needed
+  try {
+    const updatedLeague = await League.findByIdAndUpdate(
+      id,
+      { name, players },
+      { new: true, runValidators: true }
+    );
+    if (!updatedLeague) {
+      return res.status(404).json({ message: 'League not found' });
+    }
+    res.json(updatedLeague);
+  } catch (err) {
+    res.status(400).json({ error: err.message });
+  }
+};
