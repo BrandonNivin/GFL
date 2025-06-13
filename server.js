@@ -16,7 +16,7 @@ app.use(express.json());
 app.use('/api/players', require('./routes/playerRoutes'));
 app.use('/api/leagues', require('./routes/leagueRoutes'));
 app.use('/api/users', require('./routes/userRoutes'));
-
+app.use('/api/auth', require('./routes/authRoutes'));
 // DB Connection
 mongoose.connect(process.env.MONGO_URI, {
   useNewUrlParser: true,
